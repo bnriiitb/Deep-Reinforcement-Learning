@@ -50,5 +50,6 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 The file [Report.md](Report.md) contains the strategies and the methodologies followed to train the agent.  
 
-The agent was able to solve the environment within __500 episodes__, and the weights are saved in [checkpoint_solved.pth](checkpoint_solved.pth).
+The agent was able to solve the environment in __500 episodes__
+Please refer to [checkpoint_solved.pth](checkpoint_solved.pth) file for finding the saved weights.
 
