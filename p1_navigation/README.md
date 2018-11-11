@@ -24,7 +24,7 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 Please make sure you have Python 3.6+ installed on your machine and to install the dependencies that are quuired to run this project. Please run the below command.
 
-	conda install requirements.txt
+	conda install --yes --file requirements.txt
 
 1. Download the environment from one of the links below.  Select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
