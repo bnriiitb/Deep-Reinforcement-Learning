@@ -22,7 +22,7 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 ## Getting Started
 
-Please make sure you have Python 3.6+ installed on your machine and to install the dependencies that are quuired to run this project. Please run the below command.
+Please make sure you have Python 3.6+ installed on your machine and to install the other dependencies that are quired to run this project. Please run the below command from p1_navigation folder.
 
 	conda install --yes --file requirements.txt
 
