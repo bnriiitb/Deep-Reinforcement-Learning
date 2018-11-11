@@ -48,7 +48,7 @@ Please make sure you have Python 3.6+ installed on your machine and to install t
 	python3 ddqn.py --unity_environmet_file_path=Banana.app --testing_mode=1
 
 
-### Report
+## Report
 
 The file [Report.md](Report.md) contains the strategies and the methodologies followed to train the agent.  
 
