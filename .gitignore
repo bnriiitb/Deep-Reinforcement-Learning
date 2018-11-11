@@ -102,3 +102,38 @@ ENV/
 
 # mypy
 .mypy_cache/
+*.ini
+p1_navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/config
+*.dll
+*.aspx
+*.browser
+*.caw
+*.config
+*.xml
+*.nib
+*.assets
+*.resS
+p1_navigation/VisualBanana.app/Contents/Resources/Data/level0
+*.map
+*.plist
+*.tif
+*.vis
+*.sse
+*.ecm
+*.rgb
+p1_navigation/VisualBanana.app/Contents/MacOS/VisualBanana
+*.dylib
+*.bundle
+p1_navigation/Banana.app/Contents/MacOS/mac_banana
+p1_navigation/Banana.app/Contents/Mono/etc/mono/config
+p1_navigation/Banana.app/Contents/Resources/Data/globalgamemanagers
+p1_navigation/Banana.app/Contents/Resources/Data/level0
+p1_navigation/Banana.app/Contents/Resources/Data/Resources/unity_builtin_extra
+p1_navigation/Banana.app/Contents/Resources/unity default resources
+p1_navigation/VisualBanana.app/Contents/Resources/unity default resources
+p1_navigation/VisualBanana.app/Contents/Resources/Data/Resources/unity_builtin_extra
+p1_navigation/VisualBanana.app/Contents/Resources/Data/globalgamemanagers
+p1_navigation/VisualBanana.app/Contents/MonoBleedingEdge/etc/mono/config
+p1_navigation/VisualBanana.app/Contents/Mono/etc/mono/config
+p1_navigation/VisualBanana.app/Contents/Resources/UnityPlayerIcon.png
+p1_navigation/Banana.app/Contents/Resources/UnityPlayerIcon.png
