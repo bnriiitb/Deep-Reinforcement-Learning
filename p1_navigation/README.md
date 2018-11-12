@@ -40,12 +40,12 @@ Please make sure you have Python 3.6+ installed on your machine and to install t
 
 ### Training the Agent
 
-	python3 ddqn.py --unity_environmet_file_path=Banana.app
+	python3 doubledqn.py --unity_environmet_file_path=Banana.app
 	
 
 ### Testing the Agent
 
-	python3 ddqn.py --unity_environmet_file_path=Banana.app --testing_mode=1
+	python3 doubledqn.py --unity_environmet_file_path=Banana.app --training_mode=0
 
 
 ## Report
