@@ -20,3 +20,12 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 - **`3`** - turn right.
 
 The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.
+
+
+### Learning Algorithm
+
+I used [Deep Double Q-learning Algorithm] to develop an agent to interact with the environemtn and learn. It has been shown that Deep Double Q-learning algorithm not only offers better performance but also reduces the observed overestimation. Please find the implementation in [doubledqn.py](doubledqn.py).
+
+References:
+1. https://arxiv.org/abs/1509.06461
+2. https://github.com/dusty-nv/jetson-reinforcement
